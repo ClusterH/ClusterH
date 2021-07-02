@@ -1,8 +1,8 @@
-### Where there is a WILL there is a WAY 👋
+### 👋 Where there is a WILL there is a WAY! 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClusterH&layout=compact&theme=monokai&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClusterH&layout=compact&theme=tokyonight &count_private=true&show_icons=true)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=ClusterH&show_icons=true&theme=monokai&count_private=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=ClusterH&show_icons=true&theme=tokyonight &count_private=true&show_icons=true)
 
 <!--
 **ClusterH/ClusterH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
