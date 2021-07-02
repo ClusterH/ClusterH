@@ -5,9 +5,9 @@ Starting from Sep, 2019 began proactively working on blockchain related projects
 
 Nowadays I'm mainly focusing on the DeFi, DEX, NFT development stack, and have interesting bridge development between multi blockchain networks.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClusterH&layout=compact&theme=tokyonight&count_private=true&hide=hack,postscript&langs_count=10)
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=ClusterH&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClusterH&layout=compact&theme=tokyonight&count_private=true&hide=hack,postscript&langs_count=10)
 
 <!--
 **ClusterH/ClusterH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
