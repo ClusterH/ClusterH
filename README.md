@@ -14,9 +14,6 @@
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 I'm a Full-Stack developer, Blockchain Enthusiast who love to work with JavaScript/Typescript, Blockchain(Bitcoin, Ethereum, Binance Smart Chain, Solidity).
