@@ -24,7 +24,7 @@ Starting from Sep, 2019 began proactively working on blockchain related projects
 
 Nowadays I'm mainly focusing on the DeFi, DEX, NFT development stack, and have interesting bridge development between multi blockchain networks.
 
-<img align="right" alt="GIF" src="https://github.com/ClusterH/ClusterH/blob/master/dev.gif?raw=true" width="400" height="256" />
+<img align="right" alt="GIF" src="https://github.com/ClusterH/ClusterH/blob/master/dev.gif?raw=true" width="400" height="200" />
 
 - 🔭 I’m currently working on Blockchain Projects
 - 🤔 I’m looking for help with building DeFi, DEX, NFT Platform
