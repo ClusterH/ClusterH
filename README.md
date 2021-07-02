@@ -28,7 +28,9 @@ Nowadays I'm mainly focusing on the DeFi, DEX, NFT development stack, and have i
 
 - 🔭 I’m currently working on Blockchain Projects
 - 🤔 I’m looking for help with building DeFi, DEX, NFT Platform
+- 🚀 Availability: Full-Time Supporting 40hrs/week
 - 💬 Ask me about Web and Blockchain development
 - 📫 How to reach me: mycluster1990@gmail.com
 - 😄 Pronouns: Blockchain Enthusiast Guy
 - ⚡ Fun fact: Enjoy e-Football, but never play soccer :)
+
