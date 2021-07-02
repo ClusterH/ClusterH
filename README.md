@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cluster-lee-63ba041b3/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ClusterH)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ClusterH.ClusterH)
+### 👨👩 Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ClusterH.ClusterH)
 
 📈 **My GitHub Stats:**
 
@@ -23,6 +23,8 @@ I'm a Full-Stack developer, Blockchain Enthusiast who love to work with JavaScri
 Starting from Sep, 2019 began proactively working on blockchain related projects as a Blockchain software engineer.
 
 Nowadays I'm mainly focusing on the DeFi, DEX, NFT development stack, and have interesting bridge development between multi blockchain networks.
+
+<img align="right" alt="GIF" src="https://github.com/ClusterH/ClusterH/blob/master/dev.gif?raw=true" width="400" height="256" />
 
 - 🔭 I’m currently working on Blockchain Projects
 - 🤔 I’m looking for help with building DeFi, DEX, NFT Platform
