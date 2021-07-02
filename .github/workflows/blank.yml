@@ -13,6 +13,6 @@ jobs:
     steps:
       - uses: ClusterH/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.b2dfd62d-8169-409d-809d-9d28212f707d }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
