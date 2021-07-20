@@ -28,7 +28,7 @@ Other        7 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 I'm a Full-Stack developer, Blockchain Enthusiast who love to work with JavaScript/Typescript, Blockchain(Bitcoin, Ethereum, Binance Smart Chain, Solidity).
 Starting from Sep, 2019 began proactively working on blockchain related projects as a Blockchain software engineer.
 
-Nowadays I'm mainly focusing on the DeFi, DEX, NFT development stack, and have interesting bridge development between multi blockchain networks.
+Nowadays I'm mainly focusing on the any kind NFT Blockchain platform development stack, Matic, polygon Layer 2 technology supporting, and have interesting bridge development between multi blockchain networks.
 
 <img align="right" alt="GIF" src="https://github.com/ClusterH/ClusterH/blob/master/dev.gif?raw=true" width="400" height="200" />
 
