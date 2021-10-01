@@ -25,16 +25,15 @@ JavaScript   1 hr 6 mins     ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 <!--END_SECTION:waka-->
 
-I'm a Full-Stack developer, Blockchain Enthusiast who love to work with JavaScript/Typescript, Blockchain(Bitcoin, Ethereum, Binance Smart Chain, Solidity).
-Starting from Sep, 2019 began proactively working on blockchain related projects as a Blockchain software engineer.
+I'm a Full-Stack developer, Blockchain Enthusiast who loves to work with JavaScript/Typescript, Web3, Solidity, Blockchain (Ethereum, Binance Smart Chain, Polygon, Avalanche, Solana). Since 2019, I began proactively working on blockchain related projects as a Blockchain Software Engineer.
 
-Nowadays I'm mainly focusing on the any kind NFT Blockchain platform development stack, Matic, polygon Layer 2 technology supporting, and have interesting bridge development between multi blockchain networks.
+Nowadays, I'm mainly focused on working with any kind of NFT Minting, NFT Marketplace, DeFi Platform Development and have significant experience in bridge development between multi blockchain networks.
 
 <img align="right" alt="GIF" src="https://github.com/ClusterH/ClusterH/blob/master/dev.gif?raw=true" width="400" height="200" />
 
 - 🔭 I’m currently working on Blockchain Projects
-- 🤔 I’m looking for help with building DeFi, DEX, NFT Platform
-- 🌱 I’m currently learning Flow and Cadence
+- 🤔 I’m looking for help with building NFT, DeFi, DEX Platform
+- 🌱 I’m currently learning Go and Rust
 - 🚀 Availability: Full-Time Supporting 40hrs/week
 - 💬 Ask me about Web and Blockchain development
 - 📫 How to reach me: mycluster1990@gmail.com
