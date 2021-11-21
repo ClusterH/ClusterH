@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClusterH&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=hack,postscript" />
 </p>
 
-📊 **This Week I Spent My Time On:**
+<!-- 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
 Week: 10 November, 2021 - 16 November, 2021
@@ -23,7 +23,7 @@ JSON         1 hr 31 mins    ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 Solidity     40 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.30 % 
 SCSS         18 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.59 % 
 ```
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka--> -->
 
 I'm a Full-Stack developer, Blockchain Enthusiast who loves to work with JavaScript/Typescript, Web3, Solidity, Blockchain (Ethereum, Binance Smart Chain, Polygon, Avalanche, Solana). Since 2019, I began proactively working on blockchain related projects as a Blockchain Software Engineer.
 
