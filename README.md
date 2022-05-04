@@ -1,7 +1,7 @@
 ### 👋 Where there is a WILL there is a WAY! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cluster-lee-63ba041b3/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/blackhorseH)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ClusterH90)
 
 ### 👨👩 Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ClusterH.ClusterH)
 
