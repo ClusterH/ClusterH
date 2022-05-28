@@ -15,15 +15,18 @@
 I'm a Full-Stack developer, Blockchain Enthusiast who loves to work with JavaScript/Typescript, Web3, Solidity, Blockchain (Ethereum, Binance Smart Chain, Polygon, Avalanche, Solana). Since 2019, I began proactively working on blockchain related projects as a Blockchain Software Engineer.
 
 Nowadays, I'm mainly focused on working with any kind of NFT Minting, NFT Marketplace, DeFi Platform Development and have significant experience in bridge development between multi blockchain networks.
+<p>
+  - 🔭 I’m currently working on Blockchain Projects<br>
+  - 🤔 I’m looking for help with building NFT, DeFi, DEX Platform<br>
+  - 🌱 I’m currently learning Go and Rust<br>
+  - 🚀 Availability: Full-Time Supporting 40hrs/week<br>
+  - 💬 Ask me about Web and Blockchain development<br>
+  - 📫 How to reach me: mycluster1990@gmail.com<br>
+  - 😄 Pronouns: Blockchain Enthusiast Guy<br>
+  - ⚡ Fun fact: Enjoy e-Football, but never play soccer :)
+  <p align="right">
+    <img  alt="GIF" src="https://github.com/ClusterH/ClusterH/blob/master/dev.gif?raw=true" width="400" height="200" />
+  </p>
+</p>
 
-<img align="right" alt="GIF" src="https://github.com/ClusterH/ClusterH/blob/master/dev.gif?raw=true" width="400" height="200" />
-
-- 🔭 I’m currently working on Blockchain Projects
-- 🤔 I’m looking for help with building NFT, DeFi, DEX Platform
-- 🌱 I’m currently learning Go and Rust
-- 🚀 Availability: Full-Time Supporting 40hrs/week
-- 💬 Ask me about Web and Blockchain development
-- 📫 How to reach me: mycluster1990@gmail.com
-- 😄 Pronouns: Blockchain Enthusiast Guy
-- ⚡ Fun fact: Enjoy e-Football, but never play soccer :)
 
