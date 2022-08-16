@@ -15,10 +15,7 @@
 I'm a Full-Stack developer, Blockchain Enthusiast who loves to work with JavaScript/Typescript, Web3, Solidity, Blockchain (Ethereum, Binance Smart Chain, Polygon, Avalanche, Solana). Since 2019, I began proactively working on blockchain related projects as a Blockchain Software Engineer.
 
 Nowadays, I'm mainly focused on working with any kind of NFT Minting, NFT Marketplace, DeFi Platform Development and have significant experience in bridge development between multi blockchain networks.
-
-
  
- <a href="https://github.com/ClusterH">
   <p float="left">
      - 🔭 I’m currently working on Blockchain Projects
      - 🤔 I’m looking for help with building NFT, DeFi, DEX Platform
@@ -30,5 +27,5 @@ Nowadays, I'm mainly focused on working with any kind of NFT Minting, NFT Market
      - ⚡ Fun fact: Enjoy e-Football, but never play soccer :)
   </p>
   <img align="right" alt="GIF" src="https://github.com/ClusterH/ClusterH/blob/master/dev.gif?raw=true" width="48%" height="200"  />
- </a>
+
 
