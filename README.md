@@ -24,4 +24,8 @@ Nowadays, I'm mainly focused on working with any kind of NFT Minting, NFT Market
  - 📫 How to reach me: mycluster1990@gmail.com
  - 😄 Pronouns: Blockchain Enthusiast Guy
  - ⚡ Fun fact: Enjoy e-Football, but never play soccer :)
-  <img align="right" alt="GIF" src="https://github.com/ClusterH/ClusterH/blob/master/dev.gif?raw=true" width="400" height="200" />
+ 
+ <a href="https://github.com/ClusterH">
+  <img align="right" alt="GIF" src="https://github.com/ClusterH/ClusterH/blob/master/dev.gif?raw=true" height="200"  />
+ </a>
+
