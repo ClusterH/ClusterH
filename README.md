@@ -8,8 +8,8 @@
 📈 **My GitHub Stats**
 
 <p>
-  <img height="180em" src="https://github-readme-stats-clusterh.vercel.app/api?username=ClusterH&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" width="50%" />
-  <img height="180em" src="https://github-readme-stats-clusterh.vercel.app/api/top-langs/?username=ClusterH&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=hack,postscript" width="50%" />
+  <img height="180em" src="https://github-readme-stats-clusterh.vercel.app/api?username=ClusterH&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" width="48%" />
+  <img height="180em" src="https://github-readme-stats-clusterh.vercel.app/api/top-langs/?username=ClusterH&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=hack,postscript" width="48%" />
 </p>
 
 I'm a Full-Stack developer, Blockchain Enthusiast who loves to work with JavaScript/Typescript, Web3, Solidity, Blockchain (Ethereum, Binance Smart Chain, Polygon, Avalanche, Solana). Since 2019, I began proactively working on blockchain related projects as a Blockchain Software Engineer.
