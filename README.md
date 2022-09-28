@@ -14,18 +14,9 @@ Nowadays, I'm mainly focused on working with any kind of NFT Minting, NFT Market
 
 📈 **My GitHub Stats**
 
-<p>
+<h3 align="center">
   <img height="180em" src="https://github-readme-stats-clusterh.vercel.app/api?username=ClusterH&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats-clusterh.vercel.app/api/top-langs/?username=ClusterH&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=hack,postscript" />
-</p>
+</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ClusterH&theme=tokyonight&hide_border=true" /></p>
-
- 
-   - 🔭 I’m currently working on Blockchain Projects
-   - 🤔 I’m looking for help with building NFT, Metaverse, DAO, DeFi Platform
-   - 🌱 I’m currently learning Go and Rust
-   - 🚀 Availability: Full-Time Supporting 40hrs/week
-   - 💬 Ask me about Web and Blockchain development
-   - 😄 Pronouns: Blockchain Enthusiast Guy
-   - ⚡ Fun fact: Enjoy e-Football, but never play soccer :)
+<h3 align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ClusterH&theme=tokyonight&hide_border=true" /></h3>
