@@ -1,4 +1,4 @@
-<h3 align="center">👋, A passionate Blockchain Full-Stack Developer</h3>
+<h3 align="center">👋 A passionate Blockchain Full-Stack Developer</h3>
 
 ### 👋 Where there is a WILL there is a WAY! 👋
 
